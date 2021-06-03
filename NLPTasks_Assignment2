@@ -1,0 +1,21 @@
+entities,labels,Explanation
+Brandi Levy,PERSON,"People, including fictional"
+Mahanoy Area High School,ORG,"Companies, agencies, institutions, etc."
+Mahanoy City,GPE,"Countries, cities, states"
+Pa.,GPE,"Countries, cities, states"
+April 4.Facing,DATE,Absolute or relative dates or periods
+a half-century,DATE,Absolute or relative dates or periods
+the Supreme Court,ORG,"Companies, agencies, institutions, etc."
+Wednesday,DATE,Absolute or relative dates or periods
+1969,DATE,Absolute or relative dates or periods
+the Vietnam War,EVENT,"Named hurricanes, battles, wars, sports events, etc."
+Mary Beth Tinker,PERSON,"People, including fictional"
+four,CARDINAL,Numerals that do not fall under another type
+7 to 2,CARDINAL,Numerals that do not fall under another type
+first,ORDINAL,"""first"", ""second"", etc."
+First Amendment,LAW,Named documents made into laws.
+Wednesday,DATE,Absolute or relative dates or periods
+Wednesday,DATE,Absolute or relative dates or periods
+the Supreme Court,ORG,"Companies, agencies, institutions, etc."
+1969,DATE,Absolute or relative dates or periods
+Stephen Breyer,PERSON,"People, including fictional"

@@ -5,6 +5,14 @@ Goodwill Zwelithini,PERSON,"People, including fictional"
 14 July 1948,DATE,Absolute or relative dates or periods
 eighth,ORDINAL,"""first"", ""second"", etc."
 Zulu,PERSON,"People, including fictional"
+eight,CARDINAL,Numerals that do not fall under another type
+about 300,CARDINAL,Numerals that do not fall under another type
+Zulu,PERSON,"People, including fictional"
+US,GPE,"Countries, cities, states"
+46-year-old,DATE,Absolute or relative dates or periods
+Prince Misizulu,PERSON,"People, including fictional"
+65-year-old,DATE,Absolute or relative dates or periods
+Thursday,DATE,Absolute or relative dates or periods
 29 April,DATE,Absolute or relative dates or periods
 the last few years,DATE,Absolute or relative dates or periods
 Eswatini,ORG,"Companies, agencies, institutions, etc."
@@ -14,8 +22,3 @@ Zulu,PERSON,"People, including fictional"
 hundreds,CARDINAL,Numerals that do not fall under another type
 December 2017,DATE,Absolute or relative dates or periods
 46th,ORDINAL,"""first"", ""second"", etc."
-South Africa's,GPE,"Countries, cities, states"
-Zulus,NORP,Nationalities or religious or political groups
-Roman Protasevich,PERSON,"People, including fictional"
-China,GPE,"Countries, cities, states"
-Hong Kong,GPE,"Countries, cities, states"
